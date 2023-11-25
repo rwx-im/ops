@@ -1,3 +1,4 @@
-# Terraform
+# Ops
 
-This is the Terraform IaC configuration for rwx.im.
+This repository contains the Infrastructure as Code (IaC) configuration to
+manage rwx.im.
